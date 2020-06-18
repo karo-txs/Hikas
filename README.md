@@ -14,8 +14,8 @@
         4.1. Edição: Nele pode-se liberar as notas do jogo genius e Scroll para serem livres, ou seja, não mais se prenderem as notas  padrões (com frequências predefinidas);
         4.2. Gravar: Aqui é possível gravar sua música na memória do Hikas para que posteriormente possa ser jogada no modo Genius ou Scroll. Na hora da gravação também é possível modificar as escalas musicais, dando assim mais opções e mais vida a música.
         
-# Acesse o projeto clicando em:
+## Acesse o projeto clicando em:
  [HIKAS](https://www.tinkercad.com/things/c4s9VQBDqhc)
-# Veja o Video:
+## Veja o Video:
 [Video dos Modos]()
 
