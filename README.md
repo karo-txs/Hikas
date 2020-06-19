@@ -15,7 +15,7 @@
         4.2. Gravar: Aqui é possível gravar sua música na memória do Hikas para que posteriormente possa ser jogada no modo Genius ou Scroll. Na hora da gravação também é possível modificar as escalas musicais, dando assim mais opções e mais vida a música.
         
 ## Acesse o projeto clicando em:
- [HIKAS](https://www.tinkercad.com/things/c4s9VQBDqhc)
+ [HIKAS - Tinkercad](https://www.tinkercad.com/things/c4s9VQBDqhc)
 ## Veja o Video:
-[Video dos Modos]()
+[Video dos Modos](https://youtu.be/X-a5tDE8mJI)
 
