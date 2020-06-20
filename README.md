@@ -17,5 +17,7 @@
 ## Acesse o projeto clicando em:
  [HIKAS - Tinkercad](https://www.tinkercad.com/things/c4s9VQBDqhc)
 ## Veja o Video:
-[Video dos Modos](https://youtu.be/X-a5tDE8mJI)
+[HIkas - Modos em funcionamento](https://youtu.be/X-a5tDE8mJI)
+## Confira a nossa apresentação:
+[Apresentação](https://drive.google.com/drive/folders/1xyc50jZ3BqOuygNfs_FXnk6LDJpam3Ec?usp=sharing)
 
