@@ -19,5 +19,5 @@
 ## Veja o Video:
 [HIkas - Modos em funcionamento](https://youtu.be/X-a5tDE8mJI)
 ## Confira a nossa apresentação:
-[Apresentação](https://drive.google.com/drive/folders/1xyc50jZ3BqOuygNfs_FXnk6LDJpam3Ec?usp=sharing)
+[Apresentação](https://drive.google.com/drive/folders/1t4WyIVVAr5wY7u1EkzEZgUgN5k7cdxsM?usp=sharing)
 
